@@ -1,0 +1,15 @@
+{
+  "game_versions": [
+    "26.1.2"
+  ],
+  "loaders": [
+    "fabric"
+  ],
+  "dependencies": [
+    {
+      "project_id": "P7dR8mSH",
+      "dependency_type": "required"
+    }
+  ],
+  "project_url": "https://modrinth.com/mod/awesome_mr_ts-doorsonstairs"
+}
