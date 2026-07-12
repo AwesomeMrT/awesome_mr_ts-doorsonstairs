@@ -2,7 +2,8 @@
   "game_versions": [
     "26.1",
     "26.1.1",
-    "26.1.2"
+    "26.1.2",
+    "26.2"
   ],
   "loaders": [
     "fabric"
@@ -13,5 +14,7 @@
       "dependency_type": "required"
     }
   ],
-  "project_url": "https://modrinth.com/mod/awesome_mr_ts-doorsonstairs"
+  "project_url": "https://modrinth.com/mod/awesome_mr_ts-doorsonstairs",
+  "client_side": "optional",
+  "server_side": "required"
 }

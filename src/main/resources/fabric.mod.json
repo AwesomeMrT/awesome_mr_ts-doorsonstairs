@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "stairdoors",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "name": "Awesome_Mr_T's doors on stairs",
   "description": "Allows doors to be placed on straight stairs, facing opposite the stair direction, with normal double-door behavior.",
   "authors": [
@@ -17,7 +17,12 @@
   "depends": {
     "fabricloader": ">=0.19.2",
     "fabric-api": ">=0.150.0",
-    "minecraft": "~26.1-",
+    "minecraft": [
+      "26.1",
+      "26.1.1",
+      "26.1.2",
+      "26.2"
+    ],
     "java": ">=25"
   },
   "contact": {
